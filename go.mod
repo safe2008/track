@@ -1,5 +1,5 @@
-module github.com/353words/track
+module github.com/safe2008/track
 
 go 1.17
 
-require github.com/jszwec/csvutil v1.5.0
+require github.com/jszwec/csvutil v1.6.0
